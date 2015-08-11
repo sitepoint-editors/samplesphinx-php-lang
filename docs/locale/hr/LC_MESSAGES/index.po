@@ -13,7 +13,7 @@ msgstr ""
 
 #: ../../index.rst:7
 msgid "Welcome to Test 5's documentation!"
-msgstr "Dobrodosli na Test 5!"
+msgstr "Dobrodosli na Test 5 Novo!"
 
 #: ../../index.rst:9
 msgid "Contents:"
