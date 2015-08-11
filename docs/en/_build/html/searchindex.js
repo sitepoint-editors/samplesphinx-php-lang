@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{"tra\u017eilica":0,abecedni:0,content:[],modula:0,popi:0,sadrzaj:0},titles:["Dobrodosli na Test 5!"],titleterms:{dobrodosli:0,document:[],indic:0,tabl:0,test:0,welcom:[]}})
